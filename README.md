@@ -1,5 +1,5 @@
 #  Hi👋, I am Aryan Rajguru:
-I am a Passionate for Full Stack web development and enthusiast on AI/ML and Cybersecurity.<br>
+I am a Passionate for Full Stack web development and enthusiast on Web3 and Cybersecurity.<br>
 
 
 ## 🌐 Socials:
